@@ -2,6 +2,9 @@
 using namespace std; 
 using ll = long long;
 using db = double;
+
+// 706B
+
 int main()
 {
     ios_base::sync_with_stdio(NULL); 
